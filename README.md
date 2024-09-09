@@ -1,38 +1,55 @@
 <h1 align="center">Hola Amigo! Soy Bakayu :D</h1>
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
 
-- Currently Developing **sadaakAI**
+<img src="https://tenor.com/view/rei-ayanami-plush-fumo-gif-24291059" alt="gif" width="40" height="40"/>
 
-- I’m currently learning **Nix, NixOS, C and a few more cool things...**
-
-- A cool project I built **plancor_ai**
-
-- Check this out as well **2PFG**
-
-
-<h3 align="left">Languages and Tools:</h3>
+- Currently Developing [sadaakAI](https://github.com/bakayu/sadaakAI)
+- Learning **Nix, NixOS, C and a few more cool things...**
+- A cool project I built [plancor_ai](https://github.com/bakayu/plancor_ai)
+- Check this out as well [2PFG](https://github.com/bakayu/2PFG)
+  
+<h3 align="left">Languages I use:</h3>
 <p align="left"> 
   <!-- Bash -->
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <!-- C -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <!-- docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <!-- Python -->
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ <!-- Nix -->
+ <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nixos/nixos-original.svg" alt="Nix" width="40" height="40"/>
+ <!-- C -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="go" width="40" height="40"/>
+  <!-- Go -->
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg" alt="c" width="40" height="40"/>
+  <!-- Lua -->
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+ 
+
+<h3 align="left">Tools I use:</h3>
+<p align="left"> 
+  <!-- Neovim -->
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/neovim/neovim-original.svg" alt="nvim" width="40" height="40"/>
+  <!-- Bash -->
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <!-- Nix -->
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nixos/nixos-original.svg" alt="Nix" width="40" height="40"/>
   <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <!-- Heroku -->
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   <!-- Linux -->  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <!-- OPENCV -->
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <!-- Python -->
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  <!-- PyTorch -->
+ <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   <!-- Tensorflow -->
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <!-- docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <!-- Heroku -->
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></p>
 
+<h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakayu&show_icons=true&locale=en&layout=compact" alt="bakayu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakayu&show_icons=true&locale=en" alt="bakayu" /></p>
