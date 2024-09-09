@@ -1,13 +1,15 @@
 <h1 align="center">Hola Amigo! Soy Bakayu :D</h1>
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
 
-<img src="https://tenor.com/view/rei-ayanami-plush-fumo-gif-24291059" alt="gif" width="40" height="40"/>
 
-- Currently Developing [sadaakAI](https://github.com/bakayu/sadaakAI)
-- Learning **Nix, NixOS, C and a few more cool things...**
-- A cool project I built [plancor_ai](https://github.com/bakayu/plancor_ai)
-- Check this out as well [2PFG](https://github.com/bakayu/2PFG)
-  
+<img align="right" src=".data/rei-ayanami-plush.gif" alt="gif" width="325" padding="5px"/>
+<ol align="left">
+<li> Currently Developing <a href="https://github.com/bakayu/sadaakAI">sadaakAI</a> </li>
+<li> Learning <b>Nix, NixOS, C and a few more cool things...</b> </li> 
+<li> A cool project I built [plancor_ai](https://github.com/bakayu/plancor_ai) </li> 
+<li> Check this out as well [2PFG](https://github.com/bakayu/2PFG) </li> 
+</ol>
+
 <h3 align="left">Languages I use:</h3>
 <p align="left"> 
   <!-- Bash -->
