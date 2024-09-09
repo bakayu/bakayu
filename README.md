@@ -2,12 +2,13 @@
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
 
 
-<img align="right" src=".data/rei-ayanami-plush.gif" alt="gif" width="325" padding="5px"/>
+<img align="right" src=".data/rei-ayanami-plush.gif" alt="gif" width="325"/>
+
 <ol align="left">
 <li> Currently Developing <a href="https://github.com/bakayu/sadaakAI">sadaakAI</a> </li>
 <li> Learning <b>Nix, NixOS, C and a few more cool things...</b> </li> 
-<li> A cool project I built [plancor_ai](https://github.com/bakayu/plancor_ai) </li> 
-<li> Check this out as well [2PFG](https://github.com/bakayu/2PFG) </li> 
+<li> A cool project I built <a href="https://github.com/bakayu/plancor_ai">plancor_ai</a> </li> 
+<li> Check this out as well <a href="https://github.com/bakayu/2PFG">2PFG</a> </li> 
 </ol>
 
 <h3 align="left">Languages I use:</h3>
@@ -52,11 +53,11 @@
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></p>
 
 <h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakayu&show_icons=true&locale=en&layout=compact" alt="bakayu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakayu&show_icons=true&theme=dark&locale=en&layout=compact" alt="bakayu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakayu&show_icons=true&locale=en" alt="bakayu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakayu&show_icons=true&theme=dark&locale=en" alt="bakayu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakayu&" alt="bakayu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakayu&theme=dark" alt="bakayu" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
