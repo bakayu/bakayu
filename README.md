@@ -1,6 +1,6 @@
 <h1 align="center">Hola Amigo! Soy Bakayu :D</h1>
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
-
+<br>
 
 <img align="right" src=".data/rei-ayanami-plush.gif" alt="gif" width="370"/>
 
