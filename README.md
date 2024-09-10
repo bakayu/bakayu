@@ -6,7 +6,7 @@
 
 <ol align="left">
 <li> Currently Developing <a href="https://github.com/bakayu/sadaakAI">sadaakAI</a> </li>
-<li> Learning <b>Nix, NixOS, C and a few more cool things...</b> </li> 
+<li> Learning <b>Nix, NixOS, C, Go and a few more cool things...</b> </li> 
 <li> A cool project I built <a href="https://github.com/bakayu/plancor_ai">plancor_ai</a> </li> 
 <li> Check this out as well <a href="https://github.com/bakayu/2PFG">2PFG</a> </li> 
 </ol>
@@ -31,6 +31,8 @@
 <p align="left"> 
   <!-- Neovim -->
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/neovim/neovim-original.svg" alt="nvim" width="40" height="40"/>
+  <!-- Nano -->
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nano/nano-original.svg" alt="nano" width="40" height="40"/>
   <!-- Bash -->
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   <!-- Nix -->
@@ -49,8 +51,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <!-- docker -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <!-- Heroku -->
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></p>
+  </p>
 
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakayu&show_icons=true&theme=dark&locale=en&layout=compact" alt="bakayu" /></p>
