@@ -41,6 +41,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <!-- Linux -->  
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <!-- Jupyter -->
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
   <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <!-- OPENCV -->
