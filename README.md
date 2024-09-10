@@ -2,7 +2,7 @@
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
 
 
-<img align="right" src=".data/rei-ayanami-plush.gif" alt="gif" width="325"/>
+<img align="right" src=".data/rei-ayanami-plush.gif" alt="gif" width="370"/>
 
 <ul align="left">
 <li> Currently Developing <a href="https://github.com/bakayu/sadaakAI">sadaakAI</a> </li>
@@ -40,7 +40,7 @@
   <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <!-- Linux -->  
-  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><br>
   <!-- Jupyter -->
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
   <!-- MySQL -->
