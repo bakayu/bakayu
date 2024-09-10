@@ -2,7 +2,7 @@
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
 <br>
 
-<img align="right" src=".data/rei-ayanami-plush.gif" alt="gif" width="370"/>
+<img align="right" src=".data/rei_plush_b.gif" alt="gif" width="370"/>
 
 <ul align="left">
 <li> Currently Developing <a href="https://github.com/bakayu/sadaakAI">sadaakAI</a> </li>
