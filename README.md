@@ -7,9 +7,9 @@
 
 <ul align="left">
 <li> Currently Developing <a href="https://github.com/bakayu/sadaakAI">sadaakAI</a> </li>
-<li> Learning <b>Nix, NixOS, C, Go and a few more cool things...</b> </li> 
 <li> A cool project I built <a href="https://github.com/bakayu/plancor_ai">plancor_ai</a> </li> 
 <li> Check this out as well <a href="https://github.com/bakayu/2PFG">2PFG</a> </li> 
+<li> Learning <b>Nix, NixOS, C, Go and a few more cool things...</b> </li> 
 </ul>
 
 <h3 align="left">Languages I use:</h3>
