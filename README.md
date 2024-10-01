@@ -14,11 +14,11 @@
 ### Top Projects
 <table width="60%">
 <tr><td>
-<a href="https://github.com/bakayu/sadakAI">sadakAI: A roadmap solution</a>
+<a href="https://github.com/Open-Source-Chandigarh/sadakAI">sadakAI: A roadmap solution</a>
 </td>
-<td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/sadakAI?style=flat-square">
+<td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-Source-Chandigarh/sadakAI?style=flat-square">
 </td>
-<td><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/sadakAI?style=flat-square">
+<td><img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-Source-Chandigarh/sadakAI?style=flat-square">
 </td>
 </tr>
 <tr>
