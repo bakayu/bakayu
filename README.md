@@ -14,16 +14,16 @@
 ## Top Projects
 <table width="60%">
 <tr align='center'>
-    <td width="30%"><h3><b>📑 Projects</b></h3></td>
-    <td width="15%"><h3><b>⭐ Stars</b></h3</td>
-    <td width="20%"><h3><b>📚 Forks</b></h3</td>
+    <td width="30%"><b>📑 Projects</b></td>
+    <td width="15%"><b>⭐ Stars</b></td>
+    <td width="20%"><b>📚 Forks</b></td>
 </tr>
   <tr><td>
 <a href="https://github.com/Open-Source-Chandigarh/sadakAI"><b>sadakAI: A roadmap solution for devs</a>
 </td>
-<td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
+<td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-Source-Chandigarh/sadakAI?style=flat-square">
 </td>
-<td><img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
+<td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-Source-Chandigarh/sadakAI?style=flat-square">
 </td>
 </tr>
 <tr>
@@ -31,18 +31,18 @@
 <a href="https://github.com/bakayu/plancor_ai"><b>plancor_ai: Find your perfect decor</a>
   </td>
   </td>
-  <td width='25%'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/plancor_ai?style=for-the-badge">
+  <td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/plancor_ai?style=flat-square">
 </td>
-  <td><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/plancor_ai?style=for-the-badge">
+  <td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/plancor_ai?style=flat-square">
 </td>
 </tr>
 <tr>
   <td>
     <a href="https://github.com/bakayu/2PFG"><b>2PFG: 2 Player Fighter Game</a>
   </td>
-  <td width='25%'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/2PFG?style=for-the-badge">
+  <td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/2PFG?style=flat-square">
 </td>
-  <td><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/2PFG?style=for-the-badge">
+  <td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/2PFG?style=flat-square">
 </td>
 </tr>
 <tr>
@@ -50,9 +50,9 @@
 <a href="https://github.com/bakayu/fable"><b>Fable: A place for (!blogs) fables</a>
   </td>
   </td>
-  <td width='25%'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/fable?style=for-the-badge">
+  <td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/fable?style=flat-square">
 </td>
-  <td><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/fable?style=for-the-badge">
+  <td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/fable?style=flat-square">
 </td>
 </tr>
 </table>
