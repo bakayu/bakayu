@@ -1,6 +1,6 @@
 <h1 align="center">Hola Amigo! Soy Bakayu :D</h1>
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
-<img align="right" src=".data/rei_plush_b.gif" alt="gif" width="330"/>
+<img align="right" src=".data/rei_plush_b.gif" alt="gif" width="250"/>
 
 <!--
 <ul align="left">
