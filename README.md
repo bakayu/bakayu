@@ -14,9 +14,9 @@
 ## Top Projects
 <table width="60%">
 <tr align='center'>
-    <td width="40%"><h3><b>📑 Projects</b></h3></td>
+    <td width="30%"><h3><b>📑 Projects</b></h3></td>
     <td width="15%"><h3><b>⭐ Stars</b></h3</td>
-    <td width="25%"><h3><b>📚 Forks</b></h3</td>
+    <td width="20%"><h3><b>📚 Forks</b></h3</td>
 </tr>
   <tr><td>
 <a href="https://github.com/Open-Source-Chandigarh/sadakAI"><b>sadakAI: A roadmap solution for devs</a>
