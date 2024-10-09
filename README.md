@@ -158,5 +158,5 @@
 <a href="https://linkedin.com/in/bakayu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/baku_ayu" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://instagram.com/baku_ayu" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="bakayukun08@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:bakayukun08@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
