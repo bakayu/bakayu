@@ -1,22 +1,12 @@
 <h1 align="center">Hola Amigo! Soy Bakayu :D</h1>
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
-<img align="right" src=".data/rei_plush_b.gif" alt="gif" width="260"/>
 
-<!--
-<ul align="left">
-<li> Currently Developing <a href="https://github.com/bakayu/sadakAI">sadakAI</a> </li>
-<li> A cool project I built <a href="https://github.com/bakayu/plancor_ai">plancor_ai</a> </li> 
-<li> Check this out as well <a href="https://github.com/bakayu/2PFG">2PFG</a> </li> 
-<li> Learning <b>Nix, NixOS, C, Go and a few more cool things...</b> </li> 
-</ul>
--->
-
-<h3 align="left">Top Projects</h3>
-<table width="50%">
+<h2 align="left">Top Projects</h3>
+<table width="80%">
 <tr align='center'>
-    <td width="30%"><h3>📑 Projects</b></td>
-    <td width="15%"><h3>⭐ Stars</b></td>
-    <td width="15%"><h3>📚 Forks</b></td>
+    <td width="60%"><h3>📑 Projects</b></td>
+    <td width="20%"><h3>⭐ Stars</b></td>
+    <td width="20%"><h3>📚 Forks</b></td>
 </tr>
   <tr><td width='30%'>
 <a href="https://github.com/Open-Source-Chandigarh/sadakAI"><b>sadakAI: A roadmap solution for devs</a>
@@ -59,7 +49,7 @@
 
 
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h3>
 <table width="80%">
 <tr><td width="12%">
 <b>Languages</b>
@@ -153,18 +143,20 @@
 </table>
 -->
 
-<h3 align="left">GitHub stats</h3>
+<h2 align="left">GitHub stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakayu&show_icons=true&theme=gruvbox&locale=en&layout=compact&hide_border=false&include_all_commits=true&count_private=true" alt="bakayu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakayu&show_icons=true&theme=gruvbox&locale=en&hide_border=false&include_all_commits=true&count_private=true" alt="bakayu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakayu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" alt="bakayu" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/2KgPQpejGv" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" height="30" width="40" /> </a>
-<a href="https://linkedin.com/in/bakayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bakayu" height="30" width="40" /></a>
-<a href="https://twitter.com/baku_ayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baku_ayu" height="30" width="40" /></a>
-<a href="https://instagram.com/baku_ayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baku_ayu" height="30" width="40" /></a>
+## Socials
 
+<img src=".data/rei_plush_b.gif" alt="gif" width="260"/>
+<p align="left">
+<a href="https://discord.gg/2KgPQpejGv" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a>
+<a href="https://linkedin.com/in/bakayu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/baku_ayu" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/baku_ayu" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="bakayukun08@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
