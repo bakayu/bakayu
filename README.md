@@ -1,7 +1,7 @@
 <h1 align="center">Hola Amigo! Soy Bakayu :D</h1>
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
 
-<img align="right" src=".data/rei_plush_b.gif" alt="gif" width="300"/>
+<img align="right" src=".data/rei_plush_b.gif" alt="gif" width="290"/>
 <!--
 <ul align="left">
 <li> Currently Developing <a href="https://github.com/bakayu/sadakAI">sadakAI</a> </li>
@@ -20,7 +20,6 @@
       <td width="25%"><h3>📚 Forks</b></td>
     </tr>
   </thead>
-<tbody>
   <tr><td>
 <a href="https://github.com/Open-Source-Chandigarh/sadakAI"><b>sadakAI: A roadmap solution for devs</a>
 </td>
@@ -58,7 +57,6 @@
   <td><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/fable?style=for-the-badge">
 </td>
 </tr>
-</tbody>
 </table>
 
 
