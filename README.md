@@ -2,18 +2,18 @@
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
 
 <h2 align="left">Top Projects</h3>
-<table width="80%">
+<table width="100%">
 <tr align='center'>
     <td width="60%"><h3>📑 Projects</b></td>
     <td width="20%"><h3>⭐ Stars</b></td>
     <td width="20%"><h3>📚 Forks</b></td>
 </tr>
-  <tr><td width='30%'>
+  <tr><td>
 <a href="https://github.com/Open-Source-Chandigarh/sadakAI"><b>sadakAI: A roadmap solution for devs</a>
 </td>
-<td align='center' width='15%'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
+<td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
 </td>
-<td align='center' width='15%'><img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
+<td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
 </td>
 </tr>
 <tr>
