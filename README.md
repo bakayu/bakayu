@@ -1,6 +1,6 @@
 <h1 align="center">Hola Amigo! Soy Bakayu :D</h1>
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
-<img align="right" src=".data/rei_plush_b.gif" alt="gif" width="250"/>
+<img align="right" src=".data/rei_plush_b.gif" alt="gif" width="280"/>
 
 <!--
 <ul align="left">
@@ -12,11 +12,11 @@
 -->
 
 <h3 align="left">Top Projects</h3>
-<table width="60%">
+<table width="55%">
 <tr align='center'>
-    <td width="50%"><h3>📑 Projects</b></td>
-    <td width="20%"><h3>⭐ Stars</b></td>
-    <td width="20%"><h3>📚 Forks</b></td>
+    <td width="40%"><h3>📑 Projects</b></td>
+    <td width="18%"><h3>⭐ Stars</b></td>
+    <td width="18%"><h3>📚 Forks</b></td>
 </tr>
   <tr><td>
 <a href="https://github.com/Open-Source-Chandigarh/sadakAI"><b>sadakAI: A roadmap solution for devs</a>
