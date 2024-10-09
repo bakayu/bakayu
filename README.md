@@ -18,12 +18,12 @@
     <td width="18%"><h3>⭐ Stars</b></td>
     <td width="18%"><h3>📚 Forks</b></td>
 </tr>
-  <tr><td width='40%'>
+  <tr><td width='37%'>
 <a href="https://github.com/Open-Source-Chandigarh/sadakAI"><b>sadakAI: A roadmap solution for devs</a>
 </td>
-<td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
+<td align='center' width='15%'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
 </td>
-<td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
+<td align='center' width='15%'><img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
 </td>
 </tr>
 <tr>
