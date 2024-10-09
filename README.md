@@ -14,11 +14,11 @@
 <h3 align="left">Top Projects</h3>
 <table width="55%">
 <tr align='center'>
-    <td width="40%"><h3>📑 Projects</b></td>
+    <td width="35%"><h3>📑 Projects</b></td>
     <td width="18%"><h3>⭐ Stars</b></td>
     <td width="18%"><h3>📚 Forks</b></td>
 </tr>
-  <tr><td>
+  <tr><td width='40%'>
 <a href="https://github.com/Open-Source-Chandigarh/sadakAI"><b>sadakAI: A roadmap solution for devs</a>
 </td>
 <td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
