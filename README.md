@@ -2,6 +2,7 @@
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
 
 <h2 align="left">Top Projects</h3>
+<img align='right' src=".data/rei_plush_b.gif" alt="gif" width="255"/>
 <table width="100%">
 <tr align='center'>
     <td width="60%"><h3>📑 Projects</b></td>
@@ -152,7 +153,7 @@
 
 ## Socials
 
-<img src=".data/rei_plush_b.gif" alt="gif" width="260"/>
+<!--<img src=".data/rei_plush_b.gif" alt="gif" width="260"/>-->
 <p align="left">
 <a href="https://discord.gg/2KgPQpejGv" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 <a href="https://linkedin.com/in/bakayu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
