@@ -17,25 +17,7 @@
 <td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/Open-Source-Chandigarh/sadakAI?style=for-the-badge">
 </td>
 </tr>
-<tr>
-  <td>
-<a href="https://github.com/bakayu/plancor_ai"><b>plancor_ai: Find your perfect decor</a>
-  </td>
-  </td>
-  <td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/plancor_ai?style=for-the-badge">
-</td>
-  <td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/plancor_ai?style=for-the-badge">
-</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/bakayu/2PFG"><b>2PFG: 2 Player Fighter Game</a>
-  </td>
-  <td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/2PFG?style=for-the-badge">
-</td>
-  <td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/2PFG?style=for-the-badge">
-</td>
-</tr>
+    
 <tr>
   <td>
 <a href="https://github.com/bakayu/skrapy"><b>Skrapy: AI powered Weh Scrapper</a>
@@ -46,6 +28,28 @@
   <td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/skrapy?style=for-the-badge">
 </td>
 </tr>
+    
+<tr>
+  <td>
+    <a href="https://github.com/bakayu/2PFG"><b>2PFG: 2 Player Fighter Game</a>
+  </td>
+  <td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/2PFG?style=for-the-badge">
+</td>
+  <td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/2PFG?style=for-the-badge">
+</td>
+</tr>
+        
+<tr>
+  <td>
+<a href="https://github.com/bakayu/plancor_ai"><b>plancor_ai: Find your perfect decor</a>
+  </td>
+  </td>
+  <td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/plancor_ai?style=for-the-badge">
+</td>
+  <td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/plancor_ai?style=for-the-badge">
+</td>
+</tr>
+
 </table>
 
 
