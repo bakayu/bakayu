@@ -38,12 +38,12 @@
 </tr>
 <tr>
   <td>
-<a href="https://github.com/bakayu/fable"><b>Fable: A place for (!blogs) fables</a>
+<a href="https://github.com/bakayu/skrapy"><b>Skrapy: AI powered Weh Scrapper</a>
   </td>
   </td>
-  <td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/fable?style=for-the-badge">
+  <td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/skrapy?style=for-the-badge">
 </td>
-  <td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/fable?style=for-the-badge">
+  <td align='center'><img alt="GitHub forks" src="https://img.shields.io/github/forks/bakayu/skrapy?style=for-the-badge">
 </td>
 </tr>
 </table>
