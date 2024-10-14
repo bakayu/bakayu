@@ -148,12 +148,14 @@
 </table>
 -->
 
-<h2 align="left">GitHub stats</h3>
+<h2 align="left">Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakayu&show_icons=true&theme=gruvbox&locale=en&layout=compact&hide_border=false&include_all_commits=true&count_private=true" alt="bakayu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakayu&show_icons=true&theme=gruvbox&locale=en&hide_border=false&include_all_commits=true&count_private=true" alt="bakayu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakayu&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" alt="bakayu" /></p>
+
+[![An image of @bakayu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bakayu)](https://holopin.io/@bakayu)
 
 ## Socials
 
