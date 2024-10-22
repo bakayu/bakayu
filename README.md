@@ -20,7 +20,7 @@
     
 <tr>
   <td>
-<a href="https://github.com/bakayu/skrapy"><b>Skrapy: AI powered Weh Scrapper</a>
+<a href="https://github.com/bakayu/skrapy"><b>Skrapy: AI powered Web Scrapper</a>
   </td>
   </td>
   <td align='center'><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bakayu/skrapy?style=for-the-badge">
