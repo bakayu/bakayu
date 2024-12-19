@@ -1,3 +1,6 @@
+
+<!--
+
 <h1 align="center">Hola Amigo! Soy Bakayu :D</h1>
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
 
@@ -70,6 +73,7 @@
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
     <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
     <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
+<!--
 </td>
 </tr>
     <tr>
@@ -113,7 +117,6 @@
     </tr>
 </table>
  
-
 <!--
 <h3 align="left">Tools I use:</h3>
 <table width="100%">
@@ -147,7 +150,7 @@
 </tr>
 </table>
 -->
-
+<!--
 <h2 align="left">Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakayu&show_icons=true&theme=gruvbox&locale=en&layout=compact&hide_border=false&include_all_commits=true&count_private=true" alt="bakayu" /></p>
 
@@ -160,9 +163,11 @@
 ## Socials
 
 <!--<img src=".data/rei_plush_b.gif" alt="gif" width="260"/>-->
+<!--
 <p align="left">
 <a href="https://discord.gg/2KgPQpejGv" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 <a href="https://linkedin.com/in/bakayu" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/baku_ayu" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:bakayukun08@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+--!>
