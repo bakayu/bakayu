@@ -1,6 +1,3 @@
-
-<!--
-
 <h1 align="center">Hola Amigo! Soy Bakayu :D</h1>
 <h3 align="center">A Linux enthusiast and an average OSS enjoyer</h3>
 
@@ -55,8 +52,6 @@
 
 </table>
 
-
-
 <h2 align="left">Tech Stack</h3>
 <table width="80%">
 <tr><td width="12%">
@@ -73,7 +68,7 @@
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
     <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
     <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-<!--
+
 </td>
 </tr>
     <tr>
@@ -132,14 +127,14 @@
 <!--  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nixos/nixos-original.svg" alt="Nix" width="40" height="40"/>
   <!-- Git -->
 <!--  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <!-- Linux -->  
+  <!-- Linux -->
 <!--  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><br>
   <!-- Jupyter -->
 <!--  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
   <!-- MySQL -->
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <!-- OPENCV -->
-<!--  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+<!--  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <!-- PyTorch -->
 <!-- <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   <!-- Tensorflow -->
@@ -150,6 +145,7 @@
 </tr>
 </table>
 -->
+
 <!--
 <h2 align="left">Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakayu&show_icons=true&theme=gruvbox&locale=en&layout=compact&hide_border=false&include_all_commits=true&count_private=true" alt="bakayu" /></p>
@@ -160,7 +156,7 @@
 
 [![An image of @bakayu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bakayu)](https://holopin.io/@bakayu)
 
-## Socials
+<!-- ## Socials
 
 <!--<img src=".data/rei_plush_b.gif" alt="gif" width="260"/>-->
 <!--
