@@ -1,4 +1,4 @@
-<h3 align="left">Hello there! I'm <strong>Ayush</strong> (I go by <strong>bakayu</strong> around here) <img src=".data/rei_plush_round.gif" alt="gif" width="40" align="center"/></h3>
+<h3 align="left">Hey there! I'm <strong>Ayush</strong> (I go by <strong>bakayu</strong> around here) <img src=".data/rei_plush_round.gif" alt="gif" width="40" align="center"/></h3>
 
 I am a student and a <b><ins>Backend Software Engineer.</ins></b> I love working on <b><ins>FOSS</ins>, <ins>Low-Level Software</ins>, <ins>Linux</ins></b>, and <b><ins>DevOps.</ins></b><br/><b>⇃Below⇂</b> are some of my projects. ^^
 
