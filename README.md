@@ -5,5 +5,5 @@ I am a <b><ins>student</ins></b> and a <b><ins>Software Engineer.</ins></b> I lo
 
 
 > <div align="left">
->   <i>Connect with me via: ∘ <a href="https://discord.gg/2KgPQpejGv" target="_blank">My Discord Server</a> (@bakayu) ∘ <a href="https://linkedin.com/in/bakayu" target="_blank">LinkedIn</a> ∘ <a href="mailto:mail@ayuch.dev">Email</a></i> &nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<i>Visit my website: ∘ <a href="https://ayuch.dev/" target="_blank">ayuch.dev</a></i>
+>   <i>Connect with me via: ∘ <a href="https://discordapp.com/users/841639821432717353" target="_blank">Discord</a> (@bakayu) ∘ <a href="https://linkedin.com/in/bakayu" target="_blank">LinkedIn</a> ∘ <a href="mailto:mail@ayuch.dev">Email</a></i> &nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<i>Visit my website: ∘ <a href="https://ayuch.dev/" target="_blank">ayuch.dev</a></i>
 </div>
